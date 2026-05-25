@@ -13,4 +13,4 @@ I'm a B.Tech student specializing in **Cybersecurity**, **IoT**, and **Blockchai
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Tools** | ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white) |
 
-[🌐 View My Live Cybersecurity Portfolio](https://www.notion.so/My-Portfolio-36b495449aa580e99239f34c0d71c4f8?source=copy_link)
+[🌐 View My Live Portfolio](https://www.notion.so/My-Portfolio-36b495449aa580e99239f34c0d71c4f8?source=copy_link)

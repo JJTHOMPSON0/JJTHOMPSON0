@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Offensive security specialist and ranked 'Hacker' HackTheBox competitor with deep practical knowledge in network exploitation, Linux environments, and Active Directory security. Highly skilled in simulating realistic threat landscapes, executing custom network scripts, and uncovering vulnerabilities. Committed to securing enterprise networks by combining continuous learning with rigorous hands-on laboratory practice.
+Offensive security enthusiast and ranked 'Hacker' at HackTheBox with deep practical knowledge in network exploitation, Linux environments, and Active Directory security. 
 
 ---
 

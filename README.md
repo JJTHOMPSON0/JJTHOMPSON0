@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a B.Tech student specializing in **Cybersecurity**, **IoT**, and **Blockchain**. I am actively engaged in penetration testing, vulnerability research, Red Teaming and CTF competitions, continuously building robust tools and deepening my expertise in cybersecurity.
+Offensive security specialist and ranked 'Hacker' HackTheBox competitor with deep practical knowledge in network exploitation, Linux environments, and Active Directory security. Highly skilled in simulating realistic threat landscapes, executing custom network scripts, and uncovering vulnerabilities. Committed to securing enterprise networks by combining continuous learning with rigorous hands-on laboratory practice.
 
 ---
 
@@ -8,16 +8,8 @@ I'm a B.Tech student specializing in **Cybersecurity**, **IoT**, and **Blockchai
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **OS & Environments** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Security & Networking** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-002B36?style=flat-square&logo=networkwired&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-1A1A1A?style=flat-square&logo=rapid7&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-2C2C2C?style=flat-square&logo=password-manager&logoColor=white) |
-| **IoT & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Tools** | ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) |
-
----
-
-### 🌐 Links & Resources
-
-* 🔗 **Portfolio:** [View My Live Portfolio](https://jjthompson0.github.io/)
-* 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/)
+| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| **Active Directory Security** | Domain Enumeration, Kerberoasting, AS-REP Roasting, Pass-the-Hash, Pass-the-Ticket, DCSync, Domain Privilege Escalation <br> *(Tools: Rubeus, Mimikatz, PowerView, BloodHound, SharpHound, NetExec, CrackMapExec)* |
+| **OS & Environments** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Offensive & Security Tools** | ![Nmap](https://img.shields.io/badge/Nmap-002B36?style=flat-square&logo=networkwired&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-1A1A1A?style=flat-square&logo=rapid7&logoColor=white) ![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-red?style=flat-square&logo=target) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-002F6C?style=flat-square&logo=tenable&logoColor=white) ![Evilgnix](https://img.shields.io/badge/Evilgnix-black?style=flat-square) ![Hashcat](https://img.shields.io/badge/Hashcat-2C2C2C?style=flat-square&logo=password-manager&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-black?style=flat-square) |
+| **IoT & Version Control** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |

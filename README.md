@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Offensive security enthusiast and ranked 'Hacker' at HackTheBox with deep practical knowledge in network exploitation, Linux environments, and Active Directory security. 
+Offensive security enthusiast and ranked 'Pro-Hacker' at HackTheBox with deep practical knowledge in network exploitation, Linux environments, and Active Directory security. 
 
 ---
 

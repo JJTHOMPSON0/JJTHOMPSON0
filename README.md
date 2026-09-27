@@ -25,7 +25,6 @@
 ```
 
 <pre>
-[+] HTB Profile : <a href="https://app.hackthebox.com/profile/YOUR_ID">app.hackthebox.com/profile/YOUR_ID</a>
-[+] GitHub      : <a href="https://github.com/YOUR_USERNAME">github.com/YOUR_USERNAME</a>
+[+] HTB Profile : <a href="https://profile.hackthebox.com/profile/019cec25-2029-70a5-ad08-c4d807b5d9d1">profile.hackthebox.com/JJTHOMPSON0</a>
 [+] Status      : Compromising targets & building offensive tooling.
 </pre>

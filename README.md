@@ -1,6 +1,6 @@
 <div align="center">
 
-![Offensive Security Header](./ascii_banner.svg)
+![Offensive Security Header](./ascii_banner.svg?v=crown)
 
 </div>
 

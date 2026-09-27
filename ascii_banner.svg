@@ -1,0 +1,51 @@
+<svg fill="none" viewBox="0 0 800 230" width="800" height="230" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background-color: #0b0f14;
+          border: 1px solid #1f2937;
+          border-radius: 8px;
+          padding: 16px 20px;
+          box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
+        }
+        .ascii {
+          font-family: 'SF Mono', Monaco, Menlo, Consolas, 'Courier New', monospace;
+          font-size: 11px;
+          line-height: 1.22;
+          white-space: pre;
+          color: #00ff66;
+          text-shadow: 0 0 8px rgba(0, 255, 102, 0.45);
+          margin: 0;
+        }
+        .divider {
+          color: #38bdf8;
+          text-shadow: 0 0 6px rgba(56, 189, 248, 0.4);
+        }
+        .title {
+          color: #f43f5e;
+          font-weight: 700;
+          text-shadow: 0 0 8px rgba(244, 63, 94, 0.5);
+        }
+        .subtitle {
+          color: #94a3b8;
+          text-shadow: none;
+        }
+      </style>
+      <div class="container">
+        <pre class="ascii">
+          .                                                      .
+        .n                   .                 .                  n.
+  .   .dP                  dP                   9b                 9b.    .
+ 4    qXb.       .        dX                     Yb       .        .dXp     4
+dX.    "RXb.    .oo      dX                       Yb      oo.    .dRX"    .Xb
+dXRb.    "RXb.  dEEb.   dEEb.                   dEEb.  .dEEb  .dRX"    .dRXb
+<span class="divider">=============================================================================</span>
+<span class="title">  OFFENSIVE SECURITY RESEARCH  ::  PRO HACKER @ HACKTHEBOX</span>
+<span class="subtitle">  FOCUS: Active Directory Attack Paths | Internal Pivoting | System Internals</span>
+<span class="divider">=============================================================================</span>
+        </pre>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

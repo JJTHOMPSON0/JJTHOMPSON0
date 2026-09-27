@@ -1,58 +1,15 @@
-<svg fill="none" viewBox="0 0 950 310" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          background-color: #0b0f14;
-          border: 1px solid #1f2937;
-          border-radius: 8px;
-          padding: 24px 20px;
-          box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
-          display: flex;
-          justify-content: center;
-          align-items: center;
-        }
-        .ascii {
-          font-family: 'SF Mono', Monaco, Menlo, Consolas, 'Courier New', monospace;
-          font-size: 14.5px;
-          font-weight: 600;
-          line-height: 1.3;
-          white-space: pre;
-          color: #00ff66;
-          text-shadow: 0 0 10px rgba(0, 255, 102, 0.55), 0 0 20px rgba(0, 255, 102, 0.2);
-          margin: 0;
-          text-align: center;
-        }
-        .divider {
-          color: #38bdf8;
-          text-shadow: 0 0 8px rgba(56, 189, 248, 0.5);
-        }
-        .title {
-          color: #f43f5e;
-          font-weight: 800;
-          letter-spacing: 1px;
-          text-shadow: 0 0 10px rgba(244, 63, 94, 0.6);
-        }
-        .subtitle {
-          color: #cbd5e1;
-          font-weight: 500;
-          text-shadow: none;
-        }
-      </style>
-      <div class="container">
-        <pre class="ascii">
-          .                                                      .
-        .n                   .                 .                  n.
-  .   .dP                  dP                   9b                 9b.    .
- 4    qXb.       .        dX                     Yb       .        .dXp     4
-dX.    "RXb.    .oo      dX                       Yb      oo.    .dRX"    .Xb
-dXRb.    "RXb.  dEEb.   dEEb.                   dEEb.  .dEEb  .dRX"    .dRXb
-<span class="divider">=============================================================================</span>
-<span class="title">  OFFENSIVE SECURITY RESEARCH  ::  PRO HACKER @ HACKTHEBOX</span>
-<span class="subtitle">  FOCUS: Active Directory Attack Paths | Internal Pivoting | System Internals</span>
-<span class="divider">=============================================================================</span>
-        </pre>
-      </div>
-    </div>
-  </foreignObject>
+<svg fill="none" viewBox="0 0 950 280" width="100%" height="280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" rx="10" fill="#0b0f14" stroke="#1f2937" stroke-width="1.5"/>
+  <g font-family="'SF Mono', Monaco, Menlo, Consolas, 'Courier New', monospace" font-size="16.5px" font-weight="700" text-anchor="middle">
+    <text x="475" y="45" fill="#00ff66" filter="drop-shadow(0 0 8px rgba(0, 255, 102, 0.7))" letter-spacing="1.5px">.                                                      .</text>
+    <text x="475" y="67" fill="#00ff66" filter="drop-shadow(0 0 8px rgba(0, 255, 102, 0.7))" letter-spacing="1.5px">.n                   .                 .                  n.</text>
+    <text x="475" y="89" fill="#00ff66" filter="drop-shadow(0 0 8px rgba(0, 255, 102, 0.7))" letter-spacing="1.5px">.   .dP                  dP                   9b                 9b.    .</text>
+    <text x="475" y="111" fill="#00ff66" filter="drop-shadow(0 0 8px rgba(0, 255, 102, 0.7))" letter-spacing="1.5px">4    qXb.       .        dX                     Yb       .        .dXp     4</text>
+    <text x="475" y="133" fill="#00ff66" filter="drop-shadow(0 0 8px rgba(0, 255, 102, 0.7))" letter-spacing="1.5px">dX.    "RXb.    .oo      dX                       Yb      oo.    .dRX"    .Xb</text>
+    <text x="475" y="155" fill="#00ff66" filter="drop-shadow(0 0 8px rgba(0, 255, 102, 0.7))" letter-spacing="1.5px">dXRb.    "RXb.  dEEb.   dEEb.                   dEEb.  .dEEb  .dRX"    .dRXb</text>
+    <text x="475" y="177" fill="#38bdf8" filter="drop-shadow(0 0 6px rgba(56, 189, 248, 0.6))" letter-spacing="1px">=============================================================================</text>
+    <text x="475" y="202" fill="#f43f5e" font-size="17.5px" font-weight="800" filter="drop-shadow(0 0 10px rgba(244, 63, 94, 0.8))" letter-spacing="1px">OFFENSIVE SECURITY RESEARCH  ::  PRO HACKER @ HACKTHEBOX</text>
+    <text x="475" y="226" fill="#cbd5e1" font-size="14.5px" font-weight="600" letter-spacing="0.5px">FOCUS: Active Directory Attack Paths | Internal Pivoting | System Internals</text>
+    <text x="475" y="249" fill="#38bdf8" filter="drop-shadow(0 0 6px rgba(56, 189, 248, 0.6))" letter-spacing="1px">=============================================================================</text>
+  </g>
 </svg>
